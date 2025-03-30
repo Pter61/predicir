@@ -11,6 +11,9 @@ Watch or star this repository to get notified about the release.
 🔜 Full release after the official publication
 
 
+## 📝 Citing
+
+If you found this repository useful, please consider citing:
 
 ```bibtex
 @article{tang2025missing,
